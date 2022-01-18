@@ -1,4 +1,4 @@
-# shopify_intern_challenge_22
+# enterprise_inventory_solutions
 
 Challenge docs [backend intern role]: https://bit.ly/3KkIIJl
 
