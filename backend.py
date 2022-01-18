@@ -86,5 +86,4 @@ if __name__ == "__main__":
     app = make_app()
     server = tornado.httpserver.HTTPServer(app)
     server.listen(5000)
-    print("server started")
     tornado.ioloop.IOLoop.instance().start()
